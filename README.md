@@ -22,7 +22,7 @@
 ## 실행 방법
 
 ```bash
-python catstealfish.py
+python cat.py
 ```
 
 > **참고**
